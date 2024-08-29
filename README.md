@@ -4,7 +4,7 @@
 
 ## 🔭 I’m currently working on ...
 ### At Work: 
-   Transitioning access databases to SQL server and Ignition frontend (18 out of 28 databases to move over to ignition and SQL server) Part of a group of two and     we have finished 3 so far. This needs to be completed by OCT 2025 as out IT department will no longer purchase Access licenses from Microsoft due to their         subscription models.
+   Transitioning access databases to SQL server and Ignition frontend (18 out of 28 databases to move over to ignition and SQL server) Part of a group of two and     we have finished 3 so far. This needs to be completed by OCT 2025 as our IT department will no longer purchase Access licenses from Microsoft due to their         subscription models.
 ### At School: 
    As part of CEG 4110 we will be working on a semester long project which will be posted on GitHub
 
